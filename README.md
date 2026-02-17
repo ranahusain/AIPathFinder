@@ -82,7 +82,7 @@ jupyter>=1.0.0
 ipython>=7.26.0
 ```
 
-## 🎮 Usage
+##  Usage
 
 ### Basic Usage
 
@@ -210,7 +210,7 @@ grid-search-algorithms/
 └── report.md                  # Detailed technical report
 ```
 
-## 🔍 Features Breakdown
+##  Features Breakdown
 
 ### GridWorld Class
 
@@ -268,7 +268,7 @@ Contributions are welcome! Feel free to:
 
 This project is available for educational purposes. Feel free to use and modify for learning and teaching.
 
-## 👥 Authors
+##  Authors
 
 - Hussain Ashraf
 - Naina Awan
